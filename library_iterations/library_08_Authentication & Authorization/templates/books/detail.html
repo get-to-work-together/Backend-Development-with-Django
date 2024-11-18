@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Book
+{% endblock %}
+
+{% block content %}
+<p>{{ book }}</p>
+{% endblock %}
+
+<form method="POST"></form>
+    {% csrf_token %}
+    <input type="text" name="username" />
+    <button type="submit">Submit</button>
+</form>

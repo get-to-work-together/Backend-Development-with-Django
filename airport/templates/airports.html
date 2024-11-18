@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ title }}
+{% endblock %}
+
+{% block content %}
+<h2>Airports</h2>
+<ul>
+    {% for airport in object_list %}
+    <li>{{ airport.name }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}

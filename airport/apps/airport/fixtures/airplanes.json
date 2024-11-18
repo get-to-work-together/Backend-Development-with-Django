@@ -1,0 +1,959 @@
+[
+    {
+        "model": "airport.airplane",
+        "pk": 1,
+        "fields": {
+            "tail_number": "N900NN",
+            "airplane_type": 15,
+            "airline": 1,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "American Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 2,
+        "fields": {
+            "tail_number": "A6-EQO",
+            "airplane_type": 23,
+            "airline": 7,
+            "airplane_type_name": "Boeing 777-300ER",
+            "airline_name": "Emirates"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 3,
+        "fields": {
+            "tail_number": "N374NW",
+            "airplane_type": 2,
+            "airline": 2,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "Delta Air Lines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 4,
+        "fields": {
+            "tail_number": "A7-BHE",
+            "airplane_type": 26,
+            "airline": 8,
+            "airplane_type_name": "Boeing 787-9 Dreamliner",
+            "airline_name": "Qatar Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 5,
+        "fields": {
+            "tail_number": "9V-SKW",
+            "airplane_type": 11,
+            "airline": 9,
+            "airplane_type_name": "Airbus A380-800",
+            "airline_name": "Singapore Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 6,
+        "fields": {
+            "tail_number": "N8711M",
+            "airplane_type": 12,
+            "airline": 67,
+            "airplane_type_name": "Boeing 737 MAX 8",
+            "airline_name": "Southwest Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 7,
+        "fields": {
+            "tail_number": "D-ABYA",
+            "airplane_type": 19,
+            "airline": 4,
+            "airplane_type_name": "Boeing 747-8",
+            "airline_name": "Lufthansa"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 8,
+        "fields": {
+            "tail_number": "B-LRQ",
+            "airplane_type": 10,
+            "airline": 13,
+            "airplane_type_name": "Airbus A350-900",
+            "airline_name": "Cathay Pacific"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 9,
+        "fields": {
+            "tail_number": "G-YMMH",
+            "airplane_type": 22,
+            "airline": 6,
+            "airplane_type_name": "Boeing 777-200ER",
+            "airline_name": "British Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 10,
+        "fields": {
+            "tail_number": "TC-JOB",
+            "airplane_type": 7,
+            "airline": 15,
+            "airplane_type_name": "Airbus A330-300",
+            "airline_name": "Turkish Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 11,
+        "fields": {
+            "tail_number": "N674UA",
+            "airplane_type": 21,
+            "airline": 3,
+            "airplane_type_name": "Boeing 767-300ER",
+            "airline_name": "United Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 12,
+        "fields": {
+            "tail_number": "N2002J",
+            "airplane_type": 5,
+            "airline": 60,
+            "airplane_type_name": "Airbus A321neo",
+            "airline_name": "JetBlue Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 13,
+        "fields": {
+            "tail_number": "JA813A",
+            "airplane_type": 25,
+            "airline": 50,
+            "airplane_type_name": "Boeing 787-8 Dreamliner",
+            "airline_name": "ANA (All Nippon Airways)"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 14,
+        "fields": {
+            "tail_number": "F-HZUA",
+            "airplane_type": 1,
+            "airline": 5,
+            "airplane_type_name": "Airbus A220-300",
+            "airline_name": "Air France"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 15,
+        "fields": {
+            "tail_number": "PH-BFV",
+            "airplane_type": 17,
+            "airline": 17,
+            "airplane_type_name": "Boeing 747-400",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 16,
+        "fields": {
+            "tail_number": "EI-DCP",
+            "airplane_type": 15,
+            "airline": 66,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "Ryanair"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 17,
+        "fields": {
+            "tail_number": "G-EZTD",
+            "airplane_type": 2,
+            "airline": 71,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "easyJet"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 18,
+        "fields": {
+            "tail_number": "VH-VXT",
+            "airplane_type": 15,
+            "airline": 64,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "Qantas"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 19,
+        "fields": {
+            "tail_number": "A6-ETQ",
+            "airplane_type": 23,
+            "airline": 22,
+            "airplane_type_name": "Boeing 777-300ER",
+            "airline_name": "Etihad Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 20,
+        "fields": {
+            "tail_number": "G-VPOP",
+            "airplane_type": 9,
+            "airline": 44,
+            "airplane_type_name": "Airbus A350-1000",
+            "airline_name": "Virgin Atlantic"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 21,
+        "fields": {
+            "tail_number": "N900NN",
+            "airplane_type": 15,
+            "airline": 1,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "American Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 22,
+        "fields": {
+            "tail_number": "A6-EQO",
+            "airplane_type": 23,
+            "airline": 7,
+            "airplane_type_name": "Boeing 777-300ER",
+            "airline_name": "Emirates"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 23,
+        "fields": {
+            "tail_number": "N374NW",
+            "airplane_type": 2,
+            "airline": 2,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "Delta Air Lines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 24,
+        "fields": {
+            "tail_number": "A7-BHE",
+            "airplane_type": 26,
+            "airline": 8,
+            "airplane_type_name": "Boeing 787-9 Dreamliner",
+            "airline_name": "Qatar Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 25,
+        "fields": {
+            "tail_number": "9V-SKW",
+            "airplane_type": 11,
+            "airline": 9,
+            "airplane_type_name": "Airbus A380-800",
+            "airline_name": "Singapore Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 26,
+        "fields": {
+            "tail_number": "N8711M",
+            "airplane_type": 12,
+            "airline": 67,
+            "airplane_type_name": "Boeing 737 MAX 8",
+            "airline_name": "Southwest Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 27,
+        "fields": {
+            "tail_number": "D-ABYA",
+            "airplane_type": 19,
+            "airline": 4,
+            "airplane_type_name": "Boeing 747-8",
+            "airline_name": "Lufthansa"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 28,
+        "fields": {
+            "tail_number": "B-LRQ",
+            "airplane_type": 10,
+            "airline": 13,
+            "airplane_type_name": "Airbus A350-900",
+            "airline_name": "Cathay Pacific"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 29,
+        "fields": {
+            "tail_number": "G-YMMH",
+            "airplane_type": 22,
+            "airline": 6,
+            "airplane_type_name": "Boeing 777-200ER",
+            "airline_name": "British Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 30,
+        "fields": {
+            "tail_number": "TC-JOB",
+            "airplane_type": 7,
+            "airline": 15,
+            "airplane_type_name": "Airbus A330-300",
+            "airline_name": "Turkish Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 31,
+        "fields": {
+            "tail_number": "N674UA",
+            "airplane_type": 21,
+            "airline": 3,
+            "airplane_type_name": "Boeing 767-300ER",
+            "airline_name": "United Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 32,
+        "fields": {
+            "tail_number": "N2002J",
+            "airplane_type": 5,
+            "airline": 60,
+            "airplane_type_name": "Airbus A321neo",
+            "airline_name": "JetBlue Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 33,
+        "fields": {
+            "tail_number": "JA813A",
+            "airplane_type": 25,
+            "airline": 50,
+            "airplane_type_name": "Boeing 787-8 Dreamliner",
+            "airline_name": "ANA (All Nippon Airways)"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 34,
+        "fields": {
+            "tail_number": "F-HZUA",
+            "airplane_type": 1,
+            "airline": 5,
+            "airplane_type_name": "Airbus A220-300",
+            "airline_name": "Air France"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 35,
+        "fields": {
+            "tail_number": "PH-BFV",
+            "airplane_type": 17,
+            "airline": 17,
+            "airplane_type_name": "Boeing 747-400",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 36,
+        "fields": {
+            "tail_number": "EI-DCP",
+            "airplane_type": 15,
+            "airline": 66,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "Ryanair"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 37,
+        "fields": {
+            "tail_number": "G-EZTD",
+            "airplane_type": 2,
+            "airline": 71,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "easyJet"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 38,
+        "fields": {
+            "tail_number": "VH-VXT",
+            "airplane_type": 15,
+            "airline": 64,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "Qantas"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 39,
+        "fields": {
+            "tail_number": "A6-ETQ",
+            "airplane_type": 23,
+            "airline": 22,
+            "airplane_type_name": "Boeing 777-300ER",
+            "airline_name": "Etihad Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 40,
+        "fields": {
+            "tail_number": "G-VPOP",
+            "airplane_type": 9,
+            "airline": 44,
+            "airplane_type_name": "Airbus A350-1000",
+            "airline_name": "Virgin Atlantic"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 41,
+        "fields": {
+            "tail_number": "C-FSES",
+            "airplane_type": 12,
+            "airline": 20,
+            "airplane_type_name": "Boeing 737 MAX 8",
+            "airline_name": "Air Canada"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 42,
+        "fields": {
+            "tail_number": "EI-EWR",
+            "airplane_type": 6,
+            "airline": 51,
+            "airplane_type_name": "Airbus A330-200",
+            "airline_name": "Aer Lingus"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 43,
+        "fields": {
+            "tail_number": "G-CIVY",
+            "airplane_type": 17,
+            "airline": 6,
+            "airplane_type_name": "Boeing 747-400",
+            "airline_name": "British Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 44,
+        "fields": {
+            "tail_number": "C-GWSX",
+            "airplane_type": 14,
+            "airline": 70,
+            "airplane_type_name": "Boeing 737-700",
+            "airline_name": "WestJet"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 45,
+        "fields": {
+            "tail_number": "N618NK",
+            "airplane_type": 3,
+            "airline": 68,
+            "airplane_type_name": "Airbus A320-214",
+            "airline_name": "Spirit Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 46,
+        "fields": {
+            "tail_number": "9V-SCN",
+            "airplane_type": 24,
+            "airline": 9,
+            "airplane_type_name": "Boeing 787-10 Dreamliner",
+            "airline_name": "Singapore Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 47,
+        "fields": {
+            "tail_number": "CC-BEI",
+            "airplane_type": 4,
+            "airline": 62,
+            "airplane_type_name": "Airbus A321-200",
+            "airline_name": "LATAM Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 48,
+        "fields": {
+            "tail_number": "TF-FIV",
+            "airplane_type": 20,
+            "airline": 59,
+            "airplane_type_name": "Boeing 757-200",
+            "airline_name": "Icelandair"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 49,
+        "fields": {
+            "tail_number": "OH-LWA",
+            "airplane_type": 10,
+            "airline": 30,
+            "airplane_type_name": "Airbus A350-900",
+            "airline_name": "Finnair"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 50,
+        "fields": {
+            "tail_number": "N569AS",
+            "airplane_type": 15,
+            "airline": 54,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "Alaska Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 51,
+        "fields": {
+            "tail_number": "VH-VFY",
+            "airplane_type": 2,
+            "airline": 61,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "Jetstar Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 52,
+        "fields": {
+            "tail_number": "JA736J",
+            "airplane_type": 23,
+            "airline": 11,
+            "airplane_type_name": "Boeing 777-300ER",
+            "airline_name": "Japan Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 53,
+        "fields": {
+            "tail_number": "CS-TUB",
+            "airplane_type": 8,
+            "airline": 49,
+            "airplane_type_name": "Airbus A330-900neo",
+            "airline_name": "TAP Air Portugal"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 54,
+        "fields": {
+            "tail_number": "ZK-NZH",
+            "airplane_type": 26,
+            "airline": 24,
+            "airplane_type_name": "Boeing 787-9 Dreamliner",
+            "airline_name": "Air New Zealand"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 55,
+        "fields": {
+            "tail_number": "G-XWBA",
+            "airplane_type": 9,
+            "airline": 6,
+            "airplane_type_name": "Airbus A350-1000",
+            "airline_name": "British Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 56,
+        "fields": {
+            "tail_number": "PH-BXL",
+            "airplane_type": 15,
+            "airline": 17,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 57,
+        "fields": {
+            "tail_number": "CN-RGY",
+            "airplane_type": 25,
+            "airline": 65,
+            "airplane_type_name": "Boeing 787-8 Dreamliner",
+            "airline_name": "Royal Air Maroc"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 58,
+        "fields": {
+            "tail_number": "N280AV",
+            "airplane_type": 2,
+            "airline": 55,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "Avianca"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 59,
+        "fields": {
+            "tail_number": "HS-TYD",
+            "airplane_type": 15,
+            "airline": 26,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "Thai Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 60,
+        "fields": {
+            "tail_number": "D-AIKE",
+            "airplane_type": 7,
+            "airline": 4,
+            "airplane_type_name": "Airbus A330-300",
+            "airline_name": "Lufthansa"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 61,
+        "fields": {
+            "tail_number": "C-FPCA",
+            "airplane_type": 21,
+            "airline": 20,
+            "airplane_type_name": "Boeing 767-300ER",
+            "airline_name": "Air Canada"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 62,
+        "fields": {
+            "tail_number": "9M-AFP",
+            "airplane_type": 2,
+            "airline": 53,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "AirAsia"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 63,
+        "fields": {
+            "tail_number": "PK-LQP",
+            "airplane_type": 13,
+            "airline": 63,
+            "airplane_type_name": "Boeing 737 MAX 9",
+            "airline_name": "Lion Air"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 64,
+        "fields": {
+            "tail_number": "HL7764",
+            "airplane_type": 22,
+            "airline": 28,
+            "airplane_type_name": "Boeing 777-200ER",
+            "airline_name": "Korean Air"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 65,
+        "fields": {
+            "tail_number": "XA-VLC",
+            "airplane_type": 2,
+            "airline": 69,
+            "airplane_type_name": "Airbus A320-200",
+            "airline_name": "Volaris"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 66,
+        "fields": {
+            "tail_number": "B-18007",
+            "airplane_type": 23,
+            "airline": 57,
+            "airplane_type_name": "Boeing 777-300ER",
+            "airline_name": "China Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 67,
+        "fields": {
+            "tail_number": "HL7641",
+            "airplane_type": 11,
+            "airline": 27,
+            "airplane_type_name": "Airbus A380-800",
+            "airline_name": "Asiana Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 68,
+        "fields": {
+            "tail_number": "VT-AXZ",
+            "airplane_type": 15,
+            "airline": 52,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "Air India Express"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 69,
+        "fields": {
+            "tail_number": "A7-ACI",
+            "airplane_type": 6,
+            "airline": 8,
+            "airplane_type_name": "Airbus A330-200",
+            "airline_name": "Qatar Airways"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 70,
+        "fields": {
+            "tail_number": "VN-A868",
+            "airplane_type": 26,
+            "airline": 34,
+            "airplane_type_name": "Boeing 787-9 Dreamliner",
+            "airline_name": "Vietnam Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 71,
+        "fields": {
+            "tail_number": "PR-YJA",
+            "airplane_type": 5,
+            "airline": 56,
+            "airplane_type_name": "Airbus A321neo",
+            "airline_name": "Azul Brazilian Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 72,
+        "fields": {
+            "tail_number": "PR-XMA",
+            "airplane_type": 12,
+            "airline": 58,
+            "airplane_type_name": "Boeing 737 MAX 8",
+            "airline_name": "GOL Linhas Aéreas"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 73,
+        "fields": {
+            "tail_number": "PH-BQA",
+            "airplane_type": 22,
+            "airline": 17,
+            "airplane_type_name": "Boeing 777-200ER",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 74,
+        "fields": {
+            "tail_number": "PH-BGK",
+            "airplane_type": 14,
+            "airline": 17,
+            "airplane_type_name": "Boeing 737-700",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 75,
+        "fields": {
+            "tail_number": "PH-BXP",
+            "airplane_type": 16,
+            "airline": 17,
+            "airplane_type_name": "Boeing 737-900",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 76,
+        "fields": {
+            "tail_number": "PH-BKA",
+            "airplane_type": 24,
+            "airline": 17,
+            "airplane_type_name": "Boeing 787-10 Dreamliner",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 77,
+        "fields": {
+            "tail_number": "PH-AOD",
+            "airplane_type": 6,
+            "airline": 17,
+            "airplane_type_name": "Airbus A330-200",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 78,
+        "fields": {
+            "tail_number": "PH-BXI",
+            "airplane_type": 15,
+            "airline": 17,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 79,
+        "fields": {
+            "tail_number": "PH-BHO",
+            "airplane_type": 26,
+            "airline": 17,
+            "airplane_type_name": "Boeing 787-9 Dreamliner",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 80,
+        "fields": {
+            "tail_number": "PH-BVU",
+            "airplane_type": 23,
+            "airline": 17,
+            "airplane_type_name": "Boeing 777-300ER",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 81,
+        "fields": {
+            "tail_number": "PH-BXV",
+            "airplane_type": 15,
+            "airline": 17,
+            "airplane_type_name": "Boeing 737-800",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 82,
+        "fields": {
+            "tail_number": "PH-BGI",
+            "airplane_type": 14,
+            "airline": 17,
+            "airplane_type_name": "Boeing 737-700",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 83,
+        "fields": {
+            "tail_number": "PH-BQD",
+            "airplane_type": 22,
+            "airline": 17,
+            "airplane_type_name": "Boeing 777-200ER",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 84,
+        "fields": {
+            "tail_number": "PH-BXR",
+            "airplane_type": 16,
+            "airline": 17,
+            "airplane_type_name": "Boeing 737-900",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 85,
+        "fields": {
+            "tail_number": "PH-BKG",
+            "airplane_type": 24,
+            "airline": 17,
+            "airplane_type_name": "Boeing 787-10 Dreamliner",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 86,
+        "fields": {
+            "tail_number": "PH-AKA",
+            "airplane_type": 7,
+            "airline": 17,
+            "airplane_type_name": "Airbus A330-300",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    },
+    {
+        "model": "airport.airplane",
+        "pk": 87,
+        "fields": {
+            "tail_number": "PH-BFV",
+            "airplane_type": 18,
+            "airline": 17,
+            "airplane_type_name": "Boeing 747-400 Combi",
+            "airline_name": "KLM Royal Dutch Airlines"
+        }
+    }
+]

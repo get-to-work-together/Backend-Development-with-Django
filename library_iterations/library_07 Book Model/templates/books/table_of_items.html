@@ -1,0 +1,9 @@
+<table>
+
+    {% for item in items %}
+    <tr><td>{{ item }}</td></tr>
+    {% empty %}
+    <tr><td>No items available</td></tr>
+    {% endfor %}
+
+</table>

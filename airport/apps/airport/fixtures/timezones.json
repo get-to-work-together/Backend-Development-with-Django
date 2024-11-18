@@ -1,0 +1,1262 @@
+[
+    {
+        "model": "airport.timezone",
+        "pk": 1,
+        "fields": {
+            "code": "GMT",
+            "name": "Europe/London",
+            "fullname": "Greenwich Mean Time",
+            "utc_offset": "+00:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 2,
+        "fields": {
+            "code": "WET",
+            "name": "Europe/Lisbon",
+            "fullname": "Western European Time",
+            "utc_offset": "+00:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 3,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Madrid",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 4,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Berlin",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 5,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Paris",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 6,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Athens",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 7,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Sofia",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 8,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Amsterdam",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 9,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Oslo",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 10,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Brussels",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 11,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Helsinki",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 12,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Riga",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 13,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Vilnius",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 14,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Tallinn",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 15,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Bucharest",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 16,
+        "fields": {
+            "code": "TRT",
+            "name": "Europe/Istanbul",
+            "fullname": "Turkey Time",
+            "utc_offset": "+03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 17,
+        "fields": {
+            "code": "MSK",
+            "name": "Europe/Moscow",
+            "fullname": "Moscow Standard Time",
+            "utc_offset": "+03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 18,
+        "fields": {
+            "code": "KALT",
+            "name": "Europe/Kaliningrad",
+            "fullname": "Kaliningrad Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 19,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Chisinau",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 20,
+        "fields": {
+            "code": "EET",
+            "name": "Europe/Kiev",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 21,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Belgrade",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 22,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Sarajevo",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 23,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Zurich",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 24,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Stockholm",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 25,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Prague",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 26,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Vienna",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 27,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Warsaw",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 28,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Budapest",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 29,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Bratislava",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 30,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Ljubljana",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 31,
+        "fields": {
+            "code": "EST",
+            "name": "America/New_York",
+            "fullname": "Eastern Standard Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 32,
+        "fields": {
+            "code": "CST",
+            "name": "America/Chicago",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 33,
+        "fields": {
+            "code": "MST",
+            "name": "America/Denver",
+            "fullname": "Mountain Standard Time",
+            "utc_offset": "-07:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 34,
+        "fields": {
+            "code": "PST",
+            "name": "America/Los_Angeles",
+            "fullname": "Pacific Standard Time",
+            "utc_offset": "-08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 35,
+        "fields": {
+            "code": "AKST",
+            "name": "America/Anchorage",
+            "fullname": "Alaska Standard Time",
+            "utc_offset": "-09:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 36,
+        "fields": {
+            "code": "MST",
+            "name": "America/Phoenix",
+            "fullname": "Mountain Standard Time (no DST)",
+            "utc_offset": "-07:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 37,
+        "fields": {
+            "code": "AST",
+            "name": "America/Halifax",
+            "fullname": "Atlantic Standard Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 38,
+        "fields": {
+            "code": "NST",
+            "name": "America/St_Johns",
+            "fullname": "Newfoundland Standard Time",
+            "utc_offset": "-03:30"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 39,
+        "fields": {
+            "code": "BRT",
+            "name": "America/Sao_Paulo",
+            "fullname": "Brasilia Standard Time",
+            "utc_offset": "-03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 40,
+        "fields": {
+            "code": "ART",
+            "name": "America/Buenos_Aires",
+            "fullname": "Argentina Standard Time",
+            "utc_offset": "-03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 41,
+        "fields": {
+            "code": "PET",
+            "name": "America/Lima",
+            "fullname": "Peru Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 42,
+        "fields": {
+            "code": "COT",
+            "name": "America/Bogota",
+            "fullname": "Colombia Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 43,
+        "fields": {
+            "code": "VET",
+            "name": "America/Caracas",
+            "fullname": "Venezuela Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 44,
+        "fields": {
+            "code": "CST",
+            "name": "America/Mexico_City",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 45,
+        "fields": {
+            "code": "CST",
+            "name": "America/Guatemala",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 46,
+        "fields": {
+            "code": "CST",
+            "name": "America/Tegucigalpa",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 47,
+        "fields": {
+            "code": "CST",
+            "name": "America/Managua",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 48,
+        "fields": {
+            "code": "EST",
+            "name": "America/Panama",
+            "fullname": "Eastern Standard Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 49,
+        "fields": {
+            "code": "AST",
+            "name": "America/Port_of_Spain",
+            "fullname": "Atlantic Standard Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 50,
+        "fields": {
+            "code": "CST",
+            "name": "America/Havana",
+            "fullname": "Cuba Standard Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 51,
+        "fields": {
+            "code": "UYT",
+            "name": "America/Montevideo",
+            "fullname": "Uruguay Standard Time",
+            "utc_offset": "-03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 52,
+        "fields": {
+            "code": "CLT",
+            "name": "America/Santiago",
+            "fullname": "Chile Standard Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 53,
+        "fields": {
+            "code": "BOT",
+            "name": "America/La_Paz",
+            "fullname": "Bolivia Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 54,
+        "fields": {
+            "code": "PYT",
+            "name": "America/Asuncion",
+            "fullname": "Paraguay Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 55,
+        "fields": {
+            "code": "ECT",
+            "name": "America/Guayaquil",
+            "fullname": "Ecuador Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 56,
+        "fields": {
+            "code": "GFT",
+            "name": "America/Cayenne",
+            "fullname": "French Guiana Time",
+            "utc_offset": "-03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 57,
+        "fields": {
+            "code": "GYT",
+            "name": "America/Guyana",
+            "fullname": "Guyana Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 58,
+        "fields": {
+            "code": "AST",
+            "name": "America/Aruba",
+            "fullname": "Atlantic Standard Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 59,
+        "fields": {
+            "code": "CST",
+            "name": "America/Belize",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 60,
+        "fields": {
+            "code": "CST",
+            "name": "America/El_Salvador",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 61,
+        "fields": {
+            "code": "EST",
+            "name": "America/Nassau",
+            "fullname": "Eastern Standard Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 62,
+        "fields": {
+            "code": "AST",
+            "name": "America/Barbados",
+            "fullname": "Atlantic Standard Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 63,
+        "fields": {
+            "code": "EET",
+            "name": "Africa/Cairo",
+            "fullname": "Eastern European Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 64,
+        "fields": {
+            "code": "SAST",
+            "name": "Africa/Johannesburg",
+            "fullname": "South Africa Standard Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 65,
+        "fields": {
+            "code": "EAT",
+            "name": "Africa/Nairobi",
+            "fullname": "East Africa Time",
+            "utc_offset": "+03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 66,
+        "fields": {
+            "code": "GMT",
+            "name": "Africa/Abidjan",
+            "fullname": "Greenwich Mean Time",
+            "utc_offset": "+00:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 67,
+        "fields": {
+            "code": "WAT",
+            "name": "Africa/Lagos",
+            "fullname": "West Africa Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 68,
+        "fields": {
+            "code": "GMT",
+            "name": "Africa/Accra",
+            "fullname": "Greenwich Mean Time",
+            "utc_offset": "+00:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 69,
+        "fields": {
+            "code": "JST",
+            "name": "Asia/Tokyo",
+            "fullname": "Japan Standard Time",
+            "utc_offset": "+09:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 70,
+        "fields": {
+            "code": "CST",
+            "name": "Asia/Shanghai",
+            "fullname": "China Standard Time",
+            "utc_offset": "+08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 71,
+        "fields": {
+            "code": "HKT",
+            "name": "Asia/Hong_Kong",
+            "fullname": "Hong Kong Time",
+            "utc_offset": "+08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 72,
+        "fields": {
+            "code": "SGT",
+            "name": "Asia/Singapore",
+            "fullname": "Singapore Time",
+            "utc_offset": "+08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 73,
+        "fields": {
+            "code": "IST",
+            "name": "Asia/Kolkata",
+            "fullname": "India Standard Time",
+            "utc_offset": "+05:30"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 74,
+        "fields": {
+            "code": "GST",
+            "name": "Asia/Dubai",
+            "fullname": "Gulf Standard Time",
+            "utc_offset": "+04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 75,
+        "fields": {
+            "code": "ICT",
+            "name": "Asia/Bangkok",
+            "fullname": "Indochina Time",
+            "utc_offset": "+07:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 76,
+        "fields": {
+            "code": "KST",
+            "name": "Asia/Seoul",
+            "fullname": "Korea Standard Time",
+            "utc_offset": "+09:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 77,
+        "fields": {
+            "code": "WIB",
+            "name": "Asia/Jakarta",
+            "fullname": "Western Indonesia Time",
+            "utc_offset": "+07:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 78,
+        "fields": {
+            "code": "MYT",
+            "name": "Asia/Kuala_Lumpur",
+            "fullname": "Malaysia Time",
+            "utc_offset": "+08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 79,
+        "fields": {
+            "code": "PHT",
+            "name": "Asia/Manila",
+            "fullname": "Philippine Time",
+            "utc_offset": "+08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 80,
+        "fields": {
+            "code": "ICT",
+            "name": "Asia/Ho_Chi_Minh",
+            "fullname": "Indochina Time",
+            "utc_offset": "+07:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 81,
+        "fields": {
+            "code": "AZT",
+            "name": "Asia/Baku",
+            "fullname": "Azerbaijan Standard Time",
+            "utc_offset": "+04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 82,
+        "fields": {
+            "code": "NPT",
+            "name": "Asia/Kathmandu",
+            "fullname": "Nepal Time",
+            "utc_offset": "+05:45"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 83,
+        "fields": {
+            "code": "MMT",
+            "name": "Asia/Yangon",
+            "fullname": "Myanmar Time",
+            "utc_offset": "+06:30"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 84,
+        "fields": {
+            "code": "AEST",
+            "name": "Australia/Sydney",
+            "fullname": "Australian Eastern Standard Time",
+            "utc_offset": "+10:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 85,
+        "fields": {
+            "code": "AWST",
+            "name": "Australia/Perth",
+            "fullname": "Australian Western Standard Time",
+            "utc_offset": "+08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 86,
+        "fields": {
+            "code": "ACST",
+            "name": "Australia/Darwin",
+            "fullname": "Australian Central Standard Time",
+            "utc_offset": "+09:30"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 87,
+        "fields": {
+            "code": "ACST",
+            "name": "Australia/Adelaide",
+            "fullname": "Australian Central Standard Time",
+            "utc_offset": "+09:30"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 88,
+        "fields": {
+            "code": "NZST",
+            "name": "Pacific/Auckland",
+            "fullname": "New Zealand Standard Time",
+            "utc_offset": "+12:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 89,
+        "fields": {
+            "code": "FJT",
+            "name": "Pacific/Fiji",
+            "fullname": "Fiji Time",
+            "utc_offset": "+12:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 90,
+        "fields": {
+            "code": "HST",
+            "name": "Pacific/Honolulu",
+            "fullname": "Hawaii-Aleutian Standard Time",
+            "utc_offset": "-10:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 91,
+        "fields": {
+            "code": "PGT",
+            "name": "Pacific/Port_Moresby",
+            "fullname": "Papua New Guinea Time",
+            "utc_offset": "+10:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 92,
+        "fields": {
+            "code": "TAHT",
+            "name": "Pacific/Tahiti",
+            "fullname": "Tahiti Time",
+            "utc_offset": "-10:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 93,
+        "fields": {
+            "code": "MUT",
+            "name": "Indian/Mauritius",
+            "fullname": "Mauritius Time",
+            "utc_offset": "+04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 94,
+        "fields": {
+            "code": "MVT",
+            "name": "Indian/Maldives",
+            "fullname": "Maldives Time",
+            "utc_offset": "+05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 95,
+        "fields": {
+            "code": "IOT",
+            "name": "Indian/Chagos",
+            "fullname": "Indian Ocean Territory Time",
+            "utc_offset": "+06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 96,
+        "fields": {
+            "code": "RET",
+            "name": "Indian/Reunion",
+            "fullname": "Reunion Time",
+            "utc_offset": "+04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 97,
+        "fields": {
+            "code": "EAT",
+            "name": "Africa/Addis_Ababa",
+            "fullname": "East Africa Time",
+            "utc_offset": "+03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 98,
+        "fields": {
+            "code": "CET",
+            "name": "Africa/Algiers",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 99,
+        "fields": {
+            "code": "GMT",
+            "name": "Africa/Banjul",
+            "fullname": "Greenwich Mean Time",
+            "utc_offset": "+00:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 100,
+        "fields": {
+            "code": "WET",
+            "name": "Africa/Casablanca",
+            "fullname": "Western European Time",
+            "utc_offset": "+00:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 101,
+        "fields": {
+            "code": "CET",
+            "name": "Africa/Tunis",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 102,
+        "fields": {
+            "code": "ART",
+            "name": "America/Argentina/Buenos_Aires",
+            "fullname": "Argentina Time",
+            "utc_offset": "-03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 103,
+        "fields": {
+            "code": "MST",
+            "name": "America/Calgary",
+            "fullname": "Mountain Standard Time",
+            "utc_offset": "-07:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 104,
+        "fields": {
+            "code": "EST",
+            "name": "America/Cancun",
+            "fullname": "Eastern Standard Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 105,
+        "fields": {
+            "code": "MST",
+            "name": "America/Edmonton",
+            "fullname": "Mountain Standard Time",
+            "utc_offset": "-07:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 106,
+        "fields": {
+            "code": "CST",
+            "name": "America/Monterrey",
+            "fullname": "Central Standard Time",
+            "utc_offset": "-06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 107,
+        "fields": {
+            "code": "SRT",
+            "name": "America/Paramaribo",
+            "fullname": "Suriname Time",
+            "utc_offset": "-03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 108,
+        "fields": {
+            "code": "EST",
+            "name": "America/Port-au-Prince",
+            "fullname": "Eastern Standard Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 109,
+        "fields": {
+            "code": "AST",
+            "name": "America/Puerto_Rico",
+            "fullname": "Atlantic Standard Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 110,
+        "fields": {
+            "code": "AST",
+            "name": "America/Santo_Domingo",
+            "fullname": "Atlantic Standard Time",
+            "utc_offset": "-04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 111,
+        "fields": {
+            "code": "EST",
+            "name": "America/Toronto",
+            "fullname": "Eastern Standard Time",
+            "utc_offset": "-05:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 112,
+        "fields": {
+            "code": "PST",
+            "name": "America/Vancouver",
+            "fullname": "Pacific Standard Time",
+            "utc_offset": "-08:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 113,
+        "fields": {
+            "code": "AST",
+            "name": "Asia/Aden",
+            "fullname": "Arabian Standard Time",
+            "utc_offset": "+03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 114,
+        "fields": {
+            "code": "BST",
+            "name": "Asia/Dhaka",
+            "fullname": "Bangladesh Standard Time",
+            "utc_offset": "+06:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 115,
+        "fields": {
+            "code": "IST",
+            "name": "Asia/Jerusalem",
+            "fullname": "Israel Standard Time",
+            "utc_offset": "+02:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 116,
+        "fields": {
+            "code": "AFT",
+            "name": "Asia/Kabul",
+            "fullname": "Afghanistan Time",
+            "utc_offset": "+04:30"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 117,
+        "fields": {
+            "code": "AST",
+            "name": "Asia/Kuwait",
+            "fullname": "Arabian Standard Time",
+            "utc_offset": "+03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 118,
+        "fields": {
+            "code": "AST",
+            "name": "Asia/Qatar",
+            "fullname": "Arabian Standard Time",
+            "utc_offset": "+03:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 119,
+        "fields": {
+            "code": "GET",
+            "name": "Asia/Tbilisi",
+            "fullname": "Georgia Standard Time",
+            "utc_offset": "+04:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 120,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Copenhagen",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 121,
+        "fields": {
+            "code": "GMT",
+            "name": "Europe/Dublin",
+            "fullname": "Greenwich Mean Time",
+            "utc_offset": "+00:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 122,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Malta",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 123,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Skopje",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 124,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Tirane",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 125,
+        "fields": {
+            "code": "CET",
+            "name": "Europe/Zagreb",
+            "fullname": "Central European Time",
+            "utc_offset": "+01:00"
+        }
+    },
+    {
+        "model": "airport.timezone",
+        "pk": 126,
+        "fields": {
+            "code": "EAT",
+            "name": "Indian/Antananarivo",
+            "fullname": "East Africa Time",
+            "utc_offset": "+03:00"
+        }
+    }    
+]

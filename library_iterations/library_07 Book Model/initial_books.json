@@ -1,0 +1,100 @@
+[
+    {
+        "model": "books.book",
+        "pk": 1,
+        "fields": {
+            "title": "Harry Potter en de Steen der Wijzen",
+            "author": "J.K. Rowling",
+            "publication_date": "1960-07-11",
+            "isbn": "9780061120084",
+            "pages": 281,
+            "language": "Dutch",
+            "summary": "A novel about the injustices of the American South.",
+            "price": "15.99"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 2,
+        "fields": {
+            "title": "Harry Potter en de Geheime Kamer",
+            "author": "J.K. Rowling",
+            "publication_date": "1960-07-11",
+            "isbn": "9780061120085",
+            "pages": 281,
+            "language": "Dutch",
+            "summary": "A novel about the injustices of the American South.",
+            "price": "15.99"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 3,
+        "fields": {
+            "title": "Harry Potter en de Gevangene van Azkaban",
+            "author": "J.K. Rowling",
+            "publication_date": "1960-07-11",
+            "isbn": "9780061120086",
+            "pages": 281,
+            "language": "Dutch",
+            "summary": "A novel about the injustices of the American South.",
+            "price": "15.99"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 4,
+        "fields": {
+            "title": "Harry Potter en de Vuurbeker",
+            "author": "J.K. Rowling",
+            "publication_date": "1960-07-11",
+            "isbn": "9780061120087",
+            "pages": 281,
+            "language": "Dutch",
+            "summary": "A novel about the injustices of the American South.",
+            "price": "15.99"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 5,
+        "fields": {
+            "title": "Harry Potter en de Orde van de Feniks",
+            "author": "J.K. Rowling",
+            "publication_date": "1960-07-11",
+            "isbn": "9780061120088",
+            "pages": 281,
+            "language": "Dutch",
+            "summary": "A novel about the injustices of the American South.",
+            "price": "15.99"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 6,
+        "fields": {
+            "title": "Harry Potter en de Halfbloed Prins",
+            "author": "J.K. Rowling",
+            "publication_date": "1960-07-11",
+            "isbn": "9780061120089",
+            "pages": 281,
+            "language": "Dutch",
+            "summary": "A novel about the injustices of the American South.",
+            "price": "15.99"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 7,
+        "fields": {
+            "title": "Harry Potter en de Relieken van de Dood",
+            "author": "J.K. Rowling",
+            "publication_date": "1960-07-11",
+            "isbn": "9780061120090",
+            "pages": 281,
+            "language": "Dutch",
+            "summary": "A novel about the injustices of the American South.",
+            "price": "15.99"
+        }
+    }
+]

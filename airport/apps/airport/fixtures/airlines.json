@@ -1,0 +1,750 @@
+[
+    {
+        "model": "airport.airline",
+        "pk": 1,
+        "fields": {
+            "iata": "AA",
+            "icao": "AAL",
+            "name": "American Airlines",
+            "country": 184,
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 2,
+        "fields": {
+            "iata": "DL",
+            "icao": "DAL",
+            "name": "Delta Air Lines",
+            "country": 184,
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 3,
+        "fields": {
+            "iata": "UA",
+            "icao": "UAL",
+            "name": "United Airlines",
+            "country": 184,
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 4,
+        "fields": {
+            "iata": "LH",
+            "icao": "DLH",
+            "name": "Lufthansa",
+            "country": 64,
+            "country_code": "DE"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 5,
+        "fields": {
+            "iata": "AF",
+            "icao": "AFR",
+            "name": "Air France",
+            "country": 60,
+            "country_code": "FR"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 6,
+        "fields": {
+            "iata": "BA",
+            "icao": "BAW",
+            "name": "British Airways",
+            "country": 183,
+            "country_code": "GB"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 7,
+        "fields": {
+            "iata": "EK",
+            "icao": "UAE",
+            "name": "Emirates",
+            "country": 182,
+            "country_code": "AE"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 8,
+        "fields": {
+            "iata": "QR",
+            "icao": "QTR",
+            "name": "Qatar Airways",
+            "country": 140,
+            "country_code": "QA"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 9,
+        "fields": {
+            "iata": "SQ",
+            "icao": "SIA",
+            "name": "Singapore Airlines",
+            "country": 155,
+            "country_code": "SG"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 10,
+        "fields": {
+            "iata": "NH",
+            "icao": "ANA",
+            "name": "All Nippon Airways",
+            "country": 84,
+            "country_code": "JP"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 11,
+        "fields": {
+            "iata": "JL",
+            "icao": "JAL",
+            "name": "Japan Airlines",
+            "country": 84,
+            "country_code": "JP"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 12,
+        "fields": {
+            "iata": "QF",
+            "icao": "QFA",
+            "name": "Qantas Airways",
+            "country": 9,
+            "country_code": "AU"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 13,
+        "fields": {
+            "iata": "CX",
+            "icao": "CPA",
+            "name": "Cathay Pacific",
+            "country": 193,
+            "country_code": "HK"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 14,
+        "fields": {
+            "iata": "ET",
+            "icao": "ETH",
+            "name": "Ethiopian Airlines",
+            "country": 57,
+            "country_code": "ET"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 15,
+        "fields": {
+            "iata": "TK",
+            "icao": "THY",
+            "name": "Turkish Airlines",
+            "country": 177,
+            "country_code": "TR"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 16,
+        "fields": {
+            "iata": "AZ",
+            "icao": "ITY",
+            "name": "ITA Airways",
+            "country": 82,
+            "country_code": "IT"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 17,
+        "fields": {
+            "iata": "KL",
+            "icao": "KLM",
+            "name": "KLM Royal Dutch Airlines",
+            "country": 123,
+            "country_code": "NL"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 18,
+        "fields": {
+            "iata": "IB",
+            "icao": "IBE",
+            "name": "Iberia",
+            "country": 162,
+            "country_code": "ES"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 19,
+        "fields": {
+            "iata": "SU",
+            "icao": "AFL",
+            "name": "Aeroflot",
+            "country": 142,
+            "country_code": "RU"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 20,
+        "fields": {
+            "iata": "AC",
+            "icao": "ACA",
+            "name": "Air Canada",
+            "country": 32,
+            "country_code": "CA"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 21,
+        "fields": {
+            "iata": "AI",
+            "icao": "AIC",
+            "name": "Air India",
+            "country": 76,
+            "country_code": "IN"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 22,
+        "fields": {
+            "iata": "EY",
+            "icao": "ETD",
+            "name": "Etihad Airways",
+            "country": 182,
+            "country_code": "AE"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 23,
+        "fields": {
+            "iata": "VA",
+            "icao": "VOZ",
+            "name": "Virgin Australia",
+            "country": 9,
+            "country_code": "AU"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 24,
+        "fields": {
+            "iata": "NZ",
+            "icao": "ANZ",
+            "name": "Air New Zealand",
+            "country": 124,
+            "country_code": "NZ"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 25,
+        "fields": {
+            "iata": "BR",
+            "icao": "EVA",
+            "name": "EVA Air",
+            "country": 195,
+            "country_code": "TW"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 26,
+        "fields": {
+            "iata": "TG",
+            "icao": "THA",
+            "name": "Thai Airways",
+            "country": 171,
+            "country_code": "TH"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 27,
+        "fields": {
+            "iata": "OZ",
+            "icao": "AAR",
+            "name": "Asiana Airlines",
+            "country": 90,
+            "country_code": "KR"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 28,
+        "fields": {
+            "iata": "KE",
+            "icao": "KAL",
+            "name": "Korean Air",
+            "country": 90,
+            "country_code": "KR"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 29,
+        "fields": {
+            "iata": "LY",
+            "icao": "ELY",
+            "name": "El Al",
+            "country": 81,
+            "country_code": "IL"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 30,
+        "fields": {
+            "iata": "AY",
+            "icao": "FIN",
+            "name": "Finnair",
+            "country": 59,
+            "country_code": "FI"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 31,
+        "fields": {
+            "iata": "SK",
+            "icao": "SAS",
+            "name": "Scandinavian Airlines",
+            "country": 166,
+            "country_code": "SE"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 32,
+        "fields": {
+            "iata": "MS",
+            "icao": "MSR",
+            "name": "EgyptAir",
+            "country": 51,
+            "country_code": "EG"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 33,
+        "fields": {
+            "iata": "SA",
+            "icao": "SAA",
+            "name": "South African Airways",
+            "country": 160,
+            "country_code": "ZA"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 34,
+        "fields": {
+            "iata": "VN",
+            "icao": "HVN",
+            "name": "Vietnam Airlines",
+            "country": 189,
+            "country_code": "VN"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 35,
+        "fields": {
+            "iata": "MH",
+            "icao": "MAS",
+            "name": "Malaysia Airlines",
+            "country": 104,
+            "country_code": "MY"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 36,
+        "fields": {
+            "iata": "GA",
+            "icao": "GIA",
+            "name": "Garuda Indonesia",
+            "country": 77,
+            "country_code": "ID"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 37,
+        "fields": {
+            "iata": "MU",
+            "icao": "CES",
+            "name": "China Eastern Airlines",
+            "country": 36,
+            "country_code": "CN"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 39,
+        "fields": {
+            "iata": "CA",
+            "icao": "CCA",
+            "name": "Air China",
+            "country": 36,
+            "country_code": "CN"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 40,
+        "fields": {
+            "iata": "PR",
+            "icao": "PAL",
+            "name": "Philippine Airlines",
+            "country": 137,
+            "country_code": "PH"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 41,
+        "fields": {
+            "iata": "UL",
+            "icao": "ALK",
+            "name": "SriLankan Airlines",
+            "country": 163,
+            "country_code": "LK"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 42,
+        "fields": {
+            "iata": "PK",
+            "icao": "PIA",
+            "name": "Pakistan International Airlines",
+            "country": 131,
+            "country_code": "PK"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 43,
+        "fields": {
+            "iata": "PS",
+            "icao": "AUI",
+            "name": "Ukraine International Airlines",
+            "country": 181,
+            "country_code": "UA"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 44,
+        "fields": {
+            "iata": "VS",
+            "icao": "VIR",
+            "name": "Virgin Atlantic",
+            "country": 183,
+            "country_code": "GB"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 45,
+        "fields": {
+            "iata": "SN",
+            "icao": "BEL",
+            "name": "Brussels Airlines",
+            "country": 17,
+            "country_code": "BE"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 46,
+        "fields": {
+            "iata": "OS",
+            "icao": "AUA",
+            "name": "Austrian Airlines",
+            "country": 10,
+            "country_code": "AT"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 47,
+        "fields": {
+            "iata": "LO",
+            "icao": "LOT",
+            "name": "LOT Polish Airlines",
+            "country": 138,
+            "country_code": "PL"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 48,
+        "fields": {
+            "iata": "RO",
+            "icao": "ROT",
+            "name": "TAROM",
+            "country": 141,
+            "country_code": "RO"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 49,
+        "fields": {
+            "iata": "TP",
+            "icao": "TAP",
+            "name": "TAP Air Portugal",
+            "country": 139,
+            "country_code": "PT"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 50,
+        "fields": {
+            "iata": "NH",
+            "icao": "ANA",
+            "name": "ANA (All Nippon Airways)",
+            "country_code": "JP"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 51,
+        "fields": {
+            "iata": "EI",
+            "icao": "EIN",
+            "name": "Aer Lingus",
+            "country_code": "IE"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 52,
+        "fields": {
+            "iata": "IX",
+            "icao": "AXB",
+            "name": "Air India Express",
+            "country_code": "IN"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 53,
+        "fields": {
+            "iata": "AK",
+            "icao": "AXA",
+            "name": "AirAsia",
+            "country_code": "MY"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 54,
+        "fields": {
+            "iata": "AS",
+            "icao": "ASA",
+            "name": "Alaska Airlines",
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 55,
+        "fields": {
+            "iata": "AV",
+            "icao": "AVA",
+            "name": "Avianca",
+            "country_code": "CO"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 56,
+        "fields": {
+            "iata": "AD",
+            "icao": "AZU",
+            "name": "Azul Brazilian Airlines",
+            "country_code": "BR"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 57,
+        "fields": {
+            "iata": "CI",
+            "icao": "CAL",
+            "name": "China Airlines",
+            "country_code": "TW"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 58,
+        "fields": {
+            "iata": "G3",
+            "icao": "GLO",
+            "name": "GOL Linhas Aéreas",
+            "country_code": "BR"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 59,
+        "fields": {
+            "iata": "FI",
+            "icao": "ICE",
+            "name": "Icelandair",
+            "country_code": "IS"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 60,
+        "fields": {
+            "iata": "JB",
+            "icao": "JBU",
+            "name": "JetBlue Airways",
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 61,
+        "fields": {
+            "iata": "JQ",
+            "icao": "JST",
+            "name": "Jetstar Airways",
+            "country_code": "AU"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 62,
+        "fields": {
+            "iata": "LA",
+            "icao": "LAN",
+            "name": "LATAM Airlines",
+            "country_code": "CL"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 63,
+        "fields": {
+            "iata": "JT",
+            "icao": "LNI",
+            "name": "Lion Air",
+            "country_code": "ID"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 64,
+        "fields": {
+            "iata": "QF",
+            "icao": "QFA",
+            "name": "Qantas",
+            "country_code": "AU"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 65,
+        "fields": {
+            "iata": "AT",
+            "icao": "RAM",
+            "name": "Royal Air Maroc",
+            "country_code": "MA"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 66,
+        "fields": {
+            "iata": "FR",
+            "icao": "RYR",
+            "name": "Ryanair",
+            "country_code": "IE"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 67,
+        "fields": {
+            "iata": "WN",
+            "icao": "SWA",
+            "name": "Southwest Airlines",
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 68,
+        "fields": {
+            "iata": "NK",
+            "icao": "NKS",
+            "name": "Spirit Airlines",
+            "country_code": "US"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 69,
+        "fields": {
+            "iata": "Y4",
+            "icao": "VOI",
+            "name": "Volaris",
+            "country_code": "MX"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 70,
+        "fields": {
+            "iata": "WS",
+            "icao": "WJA",
+            "name": "WestJet",
+            "country_code": "CA"
+        }
+    },
+    {
+        "model": "airport.airline",
+        "pk": 71,
+        "fields": {
+            "iata": "U2",
+            "icao": "EZY",
+            "name": "easyJet",
+            "country_code": "GB"
+        }
+    }
+]

@@ -1,0 +1,1542 @@
+[
+    {
+        "model": "airport.airport",
+        "pk": 1,
+        "fields": {
+            "name": "Heathrow Airport",
+            "iata": "LHR",
+            "country_code": "GB",
+            "city": "London",
+            "timezone_full": "Europe/London"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 2,
+        "fields": {
+            "name": "Charles de Gaulle Airport",
+            "iata": "CDG",
+            "country_code": "FR",
+            "city": "Paris",
+            "timezone_full": "Europe/Paris"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 3,
+        "fields": {
+            "name": "Amsterdam Airport Schiphol",
+            "iata": "AMS",
+            "country_code": "NL",
+            "city": "Amsterdam",
+            "timezone_full": "Europe/Amsterdam"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 4,
+        "fields": {
+            "name": "Frankfurt Airport",
+            "iata": "FRA",
+            "country_code": "DE",
+            "city": "Frankfurt",
+            "timezone_full": "Europe/Berlin"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 5,
+        "fields": {
+            "name": "Madrid-Barajas Adolfo Suárez Airport",
+            "iata": "MAD",
+            "country_code": "ES",
+            "city": "Madrid",
+            "timezone_full": "Europe/Madrid"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 6,
+        "fields": {
+            "name": "Barcelona-El Prat Airport",
+            "iata": "BCN",
+            "country_code": "ES",
+            "city": "Barcelona",
+            "timezone_full": "Europe/Madrid"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 7,
+        "fields": {
+            "name": "Gatwick Airport",
+            "iata": "LGW",
+            "country_code": "GB",
+            "city": "London",
+            "timezone_full": "Europe/London"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 8,
+        "fields": {
+            "name": "Lisbon Portela Airport",
+            "iata": "LIS",
+            "country_code": "PT",
+            "city": "Lisbon",
+            "timezone_full": "Europe/Lisbon"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 9,
+        "fields": {
+            "name": "Vienna International Airport",
+            "iata": "VIE",
+            "country_code": "AT",
+            "city": "Vienna",
+            "timezone_full": "Europe/Vienna"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 10,
+        "fields": {
+            "name": "Zurich Airport",
+            "iata": "ZRH",
+            "country_code": "CH",
+            "city": "Zurich",
+            "timezone_full": "Europe/Zurich"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 11,
+        "fields": {
+            "name": "Copenhagen Airport",
+            "iata": "CPH",
+            "country_code": "DK",
+            "city": "Copenhagen",
+            "timezone_full": "Europe/Copenhagen"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 12,
+        "fields": {
+            "name": "Brussels Airport",
+            "iata": "BRU",
+            "country_code": "BE",
+            "city": "Brussels",
+            "timezone_full": "Europe/Brussels"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 13,
+        "fields": {
+            "name": "Berlin Brandenburg Airport",
+            "iata": "BER",
+            "country_code": "DE",
+            "city": "Berlin",
+            "timezone_full": "Europe/Berlin"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 14,
+        "fields": {
+            "name": "Stockholm Arlanda Airport",
+            "iata": "ARN",
+            "country_code": "SE",
+            "city": "Stockholm",
+            "timezone_full": "Europe/Stockholm"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 15,
+        "fields": {
+            "name": "Budapest Ferenc Liszt International Airport",
+            "iata": "BUD",
+            "country_code": "HU",
+            "city": "Budapest",
+            "timezone_full": "Europe/Budapest"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 16,
+        "fields": {
+            "name": "Athens International Airport",
+            "iata": "ATH",
+            "country_code": "GR",
+            "city": "Athens",
+            "timezone_full": "Europe/Athens"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 17,
+        "fields": {
+            "name": "Oslo Gardermoen Airport",
+            "iata": "OSL",
+            "country_code": "NO",
+            "city": "Oslo",
+            "timezone_full": "Europe/Oslo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 18,
+        "fields": {
+            "name": "Dublin Airport",
+            "iata": "DUB",
+            "country_code": "IE",
+            "city": "Dublin",
+            "timezone_full": "Europe/Dublin"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 19,
+        "fields": {
+            "name": "Helsinki-Vantaa Airport",
+            "iata": "HEL",
+            "country_code": "FI",
+            "city": "Helsinki",
+            "timezone_full": "Europe/Helsinki"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 20,
+        "fields": {
+            "name": "Bucharest Henri Coandă International Airport",
+            "iata": "OTP",
+            "country_code": "RO",
+            "city": "Bucharest",
+            "timezone_full": "Europe/Bucharest"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 21,
+        "fields": {
+            "name": "Malta International Airport",
+            "iata": "MLA",
+            "country_code": "MT",
+            "city": "Luqa",
+            "timezone_full": "Europe/Malta"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 22,
+        "fields": {
+            "name": "Nice Côte d'Azur Airport",
+            "iata": "NCE",
+            "country_code": "FR",
+            "city": "Nice",
+            "timezone_full": "Europe/Paris"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 23,
+        "fields": {
+            "name": "Brussels South Charleroi Airport",
+            "iata": "CRL",
+            "country_code": "BE",
+            "city": "Charleroi",
+            "timezone_full": "Europe/Brussels"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 24,
+        "fields": {
+            "name": "Vienna International Airport",
+            "iata": "VIE",
+            "country_code": "AT",
+            "city": "Vienna",
+            "timezone_full": "Europe/Vienna"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 25,
+        "fields": {
+            "name": "Cluj-Napoca International Airport",
+            "iata": "CLJ",
+            "country_code": "RO",
+            "city": "Cluj-Napoca",
+            "timezone_full": "Europe/Bucharest"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 26,
+        "fields": {
+            "name": "Osijek Airport",
+            "iata": "OSI",
+            "country_code": "HR",
+            "city": "Osijek",
+            "timezone_full": "Europe/Zagreb"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 27,
+        "fields": {
+            "name": "Tirana International Airport",
+            "iata": "TIA",
+            "country_code": "AL",
+            "city": "Tirana",
+            "timezone_full": "Europe/Tirane"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 28,
+        "fields": {
+            "name": "Skopje International Airport",
+            "iata": "SKP",
+            "country_code": "MK",
+            "city": "Skopje",
+            "timezone_full": "Europe/Skopje"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 29,
+        "fields": {
+            "name": "Prague Václav Havel Airport",
+            "iata": "PRG",
+            "country_code": "CZ",
+            "city": "Prague",
+            "timezone_full": "Europe/Prague"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 30,
+        "fields": {
+            "name": "Ljubljana Jože Pučnik Airport",
+            "iata": "LJU",
+            "country_code": "SI",
+            "city": "Ljubljana",
+            "timezone_full": "Europe/Ljubljana"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 31,
+        "fields": {
+            "name": "Sarajevo International Airport",
+            "iata": "SJJ",
+            "country_code": "BA",
+            "city": "Sarajevo",
+            "timezone_full": "Europe/Sarajevo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 32,
+        "fields": {
+            "name": "Banja Luka International Airport",
+            "iata": "BNX",
+            "country_code": "BA",
+            "city": "Banja Luka",
+            "timezone_full": "Europe/Sarajevo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 33,
+        "fields": {
+            "name": "Riga International Airport",
+            "iata": "RIX",
+            "country_code": "LV",
+            "city": "Riga",
+            "timezone_full": "Europe/Riga"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 34,
+        "fields": {
+            "name": "Tallinn Airport",
+            "iata": "TLL",
+            "country_code": "EE",
+            "city": "Tallinn",
+            "timezone_full": "Europe/Tallinn"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 35,
+        "fields": {
+            "name": "Vilnius Airport",
+            "iata": "VNO",
+            "country_code": "LT",
+            "city": "Vilnius",
+            "timezone_full": "Europe/Vilnius"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 36,
+        "fields": {
+            "name": "Bucharest Aurel Vlaicu International Airport",
+            "iata": "BBU",
+            "country_code": "RO",
+            "city": "Bucharest",
+            "timezone_full": "Europe/Bucharest"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 37,
+        "fields": {
+            "name": "Split Airport",
+            "iata": "SPU",
+            "country_code": "HR",
+            "city": "Split",
+            "timezone_full": "Europe/Zagreb"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 38,
+        "fields": {
+            "name": "Dubrovnik Airport",
+            "iata": "DBV",
+            "country_code": "HR",
+            "city": "Dubrovnik",
+            "timezone_full": "Europe/Zagreb"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 39,
+        "fields": {
+            "name": "Podgorica Airport",
+            "iata": "TGD",
+            "country_code": "ME",
+            "city": "Podgorica",
+            "timezone_full": "Europe/Belgrade"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 40,
+        "fields": {
+            "name": "Tivat Airport",
+            "iata": "TIV",
+            "country_code": "ME",
+            "city": "Tivat",
+            "timezone_full": "Europe/Belgrade"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 41,
+        "fields": {
+            "name": "Zagreb Airport",
+            "iata": "ZAG",
+            "country_code": "HR",
+            "city": "Zagreb",
+            "timezone_full": "Europe/Zagreb"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 42,
+        "fields": {
+            "name": "Geneva Airport",
+            "iata": "GVA",
+            "country_code": "CH",
+            "city": "Geneva",
+            "timezone_full": "Europe/Zurich"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 43,
+        "fields": {
+            "name": "Cologne Bonn Airport",
+            "iata": "CGN",
+            "country_code": "DE",
+            "city": "Cologne",
+            "timezone_full": "Europe/Berlin"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 44,
+        "fields": {
+            "name": "Hamburg Airport",
+            "iata": "HAM",
+            "country_code": "DE",
+            "city": "Hamburg",
+            "timezone_full": "Europe/Berlin"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 45,
+        "fields": {
+            "name": "Stuttgart Airport",
+            "iata": "STR",
+            "country_code": "DE",
+            "city": "Stuttgart",
+            "timezone_full": "Europe/Berlin"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 46,
+        "fields": {
+            "name": "Nuremberg Airport",
+            "iata": "NUE",
+            "country_code": "DE",
+            "city": "Nuremberg",
+            "timezone_full": "Europe/Berlin"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 47,
+        "fields": {
+            "name": "Riga International Airport",
+            "iata": "RIX",
+            "country_code": "LV",
+            "city": "Riga",
+            "timezone_full": "Europe/Riga"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 48,
+        "fields": {
+            "name": "Billund Airport",
+            "iata": "BLL",
+            "country_code": "DK",
+            "city": "Billund",
+            "timezone_full": "Europe/Copenhagen"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 49,
+        "fields": {
+            "name": "Toronto Pearson International Airport",
+            "iata": "YYZ",
+            "country_code": "CA",
+            "city": "Toronto",
+            "timezone_full": "America/Toronto"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 50,
+        "fields": {
+            "name": "Vancouver International Airport",
+            "iata": "YVR",
+            "country_code": "CA",
+            "city": "Vancouver",
+            "timezone_full": "America/Vancouver"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 51,
+        "fields": {
+            "name": "Montréal-Pierre Elliott Trudeau International Airport",
+            "iata": "YUL",
+            "country_code": "CA",
+            "city": "Montreal",
+            "timezone_full": "America/Toronto"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 52,
+        "fields": {
+            "name": "Calgary International Airport",
+            "iata": "YYC",
+            "country_code": "CA",
+            "city": "Calgary",
+            "timezone_full": "America/Calgary"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 53,
+        "fields": {
+            "name": "Edmonton International Airport",
+            "iata": "YEG",
+            "country_code": "CA",
+            "city": "Edmonton",
+            "timezone_full": "America/Edmonton"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 54,
+        "fields": {
+            "name": "Ottawa Macdonald-Cartier International Airport",
+            "iata": "YOW",
+            "country_code": "CA",
+            "city": "Ottawa",
+            "timezone_full": "America/Toronto"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 55,
+        "fields": {
+            "name": "San Francisco International Airport",
+            "iata": "SFO",
+            "country_code": "US",
+            "city": "San Francisco",
+            "timezone_full": "America/Los_Angeles"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 56,
+        "fields": {
+            "name": "Los Angeles International Airport",
+            "iata": "LAX",
+            "country_code": "US",
+            "city": "Los Angeles",
+            "timezone_full": "America/Los_Angeles"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 57,
+        "fields": {
+            "name": "Chicago O'Hare International Airport",
+            "iata": "ORD",
+            "country_code": "US",
+            "city": "Chicago",
+            "timezone_full": "America/Chicago"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 58,
+        "fields": {
+            "name": "John F. Kennedy International Airport",
+            "iata": "JFK",
+            "country_code": "US",
+            "city": "New York",
+            "timezone_full": "America/New_York"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 59,
+        "fields": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "iata": "ATL",
+            "country_code": "US",
+            "city": "Atlanta",
+            "timezone_full": "America/New_York"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 60,
+        "fields": {
+            "name": "Dallas/Fort Worth International Airport",
+            "iata": "DFW",
+            "country_code": "US",
+            "city": "Dallas",
+            "timezone_full": "America/Chicago"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 61,
+        "fields": {
+            "name": "Denver International Airport",
+            "iata": "DEN",
+            "country_code": "US",
+            "city": "Denver",
+            "timezone_full": "America/Denver"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 62,
+        "fields": {
+            "name": "Miami International Airport",
+            "iata": "MIA",
+            "country_code": "US",
+            "city": "Miami",
+            "timezone_full": "America/New_York"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 63,
+        "fields": {
+            "name": "Seattle-Tacoma International Airport",
+            "iata": "SEA",
+            "country_code": "US",
+            "city": "Seattle",
+            "timezone_full": "America/Los_Angeles"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 64,
+        "fields": {
+            "name": "Orlando International Airport",
+            "iata": "MCO",
+            "country_code": "US",
+            "city": "Orlando",
+            "timezone_full": "America/New_York"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 65,
+        "fields": {
+            "name": "São Paulo/Guarulhos–Governador André Franco Montoro International Airport",
+            "iata": "GRU",
+            "country_code": "BR",
+            "city": "São Paulo",
+            "timezone_full": "America/Sao_Paulo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 66,
+        "fields": {
+            "name": "Rio de Janeiro/Galeão–Antonio Carlos Jobim International Airport",
+            "iata": "GIG",
+            "country_code": "BR",
+            "city": "Rio de Janeiro",
+            "timezone_full": "America/Sao_Paulo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 67,
+        "fields": {
+            "name": "El Dorado International Airport",
+            "iata": "BOG",
+            "country_code": "CO",
+            "city": "Bogotá",
+            "timezone_full": "America/Bogota"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 68,
+        "fields": {
+            "name": "Jorge Chávez International Airport",
+            "iata": "LIM",
+            "country_code": "PE",
+            "city": "Lima",
+            "timezone_full": "America/Lima"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 69,
+        "fields": {
+            "name": "Arturo Merino Benítez International Airport",
+            "iata": "SCL",
+            "country_code": "CL",
+            "city": "Santiago",
+            "timezone_full": "America/Santiago"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 70,
+        "fields": {
+            "name": "Ministro Pistarini International Airport",
+            "iata": "EZE",
+            "country_code": "AR",
+            "city": "Buenos Aires",
+            "timezone_full": "America/Argentina/Buenos_Aires"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 71,
+        "fields": {
+            "name": "Cancún International Airport",
+            "iata": "CUN",
+            "country_code": "MX",
+            "city": "Cancún",
+            "timezone_full": "America/Cancun"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 72,
+        "fields": {
+            "name": "Guadalajara International Airport",
+            "iata": "GDL",
+            "country_code": "MX",
+            "city": "Guadalajara",
+            "timezone_full": "America/Mexico_City"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 73,
+        "fields": {
+            "name": "Monterrey International Airport",
+            "iata": "MTY",
+            "country_code": "MX",
+            "city": "Monterrey",
+            "timezone_full": "America/Monterrey"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 74,
+        "fields": {
+            "name": "LaGuardia Airport",
+            "iata": "LGA",
+            "country_code": "US",
+            "city": "New York",
+            "timezone_full": "America/New_York"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 75,
+        "fields": {
+            "name": "San Diego International Airport",
+            "iata": "SAN",
+            "country_code": "US",
+            "city": "San Diego",
+            "timezone_full": "America/Los_Angeles"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 76,
+        "fields": {
+            "name": "Fort Lauderdale-Hollywood International Airport",
+            "iata": "FLL",
+            "country_code": "US",
+            "city": "Fort Lauderdale",
+            "timezone_full": "America/New_York"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 77,
+        "fields": {
+            "name": "Dubai International Airport",
+            "iata": "DXB",
+            "country_code": "AE",
+            "city": "Dubai",
+            "timezone_full": "Asia/Dubai"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 78,
+        "fields": {
+            "name": "Tokyo Haneda Airport",
+            "iata": "HND",
+            "country_code": "JP",
+            "city": "Tokyo",
+            "timezone_full": "Asia/Tokyo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 79,
+        "fields": {
+            "name": "Hong Kong International Airport",
+            "iata": "HKG",
+            "country_code": "HK",
+            "city": "Hong Kong",
+            "timezone_full": "Asia/Hong_Kong"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 80,
+        "fields": {
+            "name": "Shanghai Pudong International Airport",
+            "iata": "PVG",
+            "country_code": "CN",
+            "city": "Shanghai",
+            "timezone_full": "Asia/Shanghai"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 81,
+        "fields": {
+            "name": "Singapore Changi Airport",
+            "iata": "SIN",
+            "country_code": "SG",
+            "city": "Singapore",
+            "timezone_full": "Asia/Singapore"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 82,
+        "fields": {
+            "name": "Incheon International Airport",
+            "iata": "ICN",
+            "country_code": "KR",
+            "city": "Seoul",
+            "timezone_full": "Asia/Seoul"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 83,
+        "fields": {
+            "name": "Bangalore Kempegowda International Airport",
+            "iata": "BLR",
+            "country_code": "IN",
+            "city": "Bangalore",
+            "timezone_full": "Asia/Kolkata"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 84,
+        "fields": {
+            "name": "Jakarta Soekarno-Hatta International Airport",
+            "iata": "CGK",
+            "country_code": "ID",
+            "city": "Jakarta",
+            "timezone_full": "Asia/Jakarta"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 85,
+        "fields": {
+            "name": "Bangkok Suvarnabhumi Airport",
+            "iata": "BKK",
+            "country_code": "TH",
+            "city": "Bangkok",
+            "timezone_full": "Asia/Bangkok"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 86,
+        "fields": {
+            "name": "Kuala Lumpur International Airport",
+            "iata": "KUL",
+            "country_code": "MY",
+            "city": "Kuala Lumpur",
+            "timezone_full": "Asia/Kuala_Lumpur"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 87,
+        "fields": {
+            "name": "Tel Aviv Ben Gurion Airport",
+            "iata": "TLV",
+            "country_code": "IL",
+            "city": "Tel Aviv",
+            "timezone_full": "Asia/Jerusalem"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 88,
+        "fields": {
+            "name": "Hanoi Noi Bai International Airport",
+            "iata": "HAN",
+            "country_code": "VN",
+            "city": "Hanoi",
+            "timezone_full": "Asia/Bangkok"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 89,
+        "fields": {
+            "name": "Manila Ninoy Aquino International Airport",
+            "iata": "MNL",
+            "country_code": "PH",
+            "city": "Manila",
+            "timezone_full": "Asia/Manila"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 90,
+        "fields": {
+            "name": "Doha Hamad International Airport",
+            "iata": "DOH",
+            "country_code": "QA",
+            "city": "Doha",
+            "timezone_full": "Asia/Qatar"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 91,
+        "fields": {
+            "name": "Moscow Sheremetyevo International Airport",
+            "iata": "SVO",
+            "country_code": "RU",
+            "city": "Moscow",
+            "timezone_full": "Europe/Moscow"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 92,
+        "fields": {
+            "name": "Mexico City International Airport",
+            "iata": "MEX",
+            "country_code": "MX",
+            "city": "Mexico City",
+            "timezone_full": "America/Mexico_City"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 93,
+        "fields": {
+            "name": "Buenos Aires Ministro Pistarini International Airport",
+            "iata": "EZE",
+            "country_code": "AR",
+            "city": "Buenos Aires",
+            "timezone_full": "America/Argentina/Buenos_Aires"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 94,
+        "fields": {
+            "name": "Santiago Arturo Merino Benítez International Airport",
+            "iata": "SCL",
+            "country_code": "CL",
+            "city": "Santiago",
+            "timezone_full": "America/Santiago"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 95,
+        "fields": {
+            "name": "Lima Jorge Chávez International Airport",
+            "iata": "LIM",
+            "country_code": "PE",
+            "city": "Lima",
+            "timezone_full": "America/Lima"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 96,
+        "fields": {
+            "name": "Rio de Janeiro Galeão International Airport",
+            "iata": "GIG",
+            "country_code": "BR",
+            "city": "Rio de Janeiro",
+            "timezone_full": "America/Sao_Paulo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 97,
+        "fields": {
+            "name": "São Paulo/Guarulhos International Airport",
+            "iata": "GRU",
+            "country_code": "BR",
+            "city": "São Paulo",
+            "timezone_full": "America/Sao_Paulo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 98,
+        "fields": {
+            "name": "Addis Ababa Bole International Airport",
+            "iata": "ADD",
+            "country_code": "ET",
+            "city": "Addis Ababa",
+            "timezone_full": "Africa/Addis_Ababa"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 99,
+        "fields": {
+            "name": "Nairobi Jomo Kenyatta International Airport",
+            "iata": "NBO",
+            "country_code": "KE",
+            "city": "Nairobi",
+            "timezone_full": "Africa/Nairobi"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 100,
+        "fields": {
+            "name": "Cape Town International Airport",
+            "iata": "CPT",
+            "country_code": "ZA",
+            "city": "Cape Town",
+            "timezone_full": "Africa/Johannesburg"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 101,
+        "fields": {
+            "name": "Kairo International Airport",
+            "iata": "CAI",
+            "country_code": "EG",
+            "city": "Cairo",
+            "timezone_full": "Africa/Cairo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 102,
+        "fields": {
+            "name": "Mumbai Chhatrapati Shivaji Maharaj International Airport",
+            "iata": "BOM",
+            "country_code": "IN",
+            "city": "Mumbai",
+            "timezone_full": "Asia/Kolkata"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 103,
+        "fields": {
+            "name": "Algiers Houari Boumediene Airport",
+            "iata": "ALG",
+            "country_code": "DZ",
+            "city": "Algiers",
+            "timezone_full": "Africa/Algiers"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 104,
+        "fields": {
+            "name": "Caracas Simón Bolívar International Airport",
+            "iata": "CCS",
+            "country_code": "VE",
+            "city": "Caracas",
+            "timezone_full": "America/Caracas"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 105,
+        "fields": {
+            "name": "Bogotá El Dorado International Airport",
+            "iata": "BOG",
+            "country_code": "CO",
+            "city": "Bogotá",
+            "timezone_full": "America/Bogota"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 106,
+        "fields": {
+            "name": "Lagos Murtala Muhammed International Airport",
+            "iata": "LOS",
+            "country_code": "NG",
+            "city": "Lagos",
+            "timezone_full": "Africa/Lagos"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 107,
+        "fields": {
+            "name": "Havana José Martí International Airport",
+            "iata": "HAV",
+            "country_code": "CU",
+            "city": "Havana",
+            "timezone_full": "America/Havana"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 108,
+        "fields": {
+            "name": "Sofia Airport",
+            "iata": "SOF",
+            "country_code": "BG",
+            "city": "Sofia",
+            "timezone_full": "Europe/Sofia"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 109,
+        "fields": {
+            "name": "Vienna International Airport",
+            "iata": "VIE",
+            "country_code": "AT",
+            "city": "Vienna",
+            "timezone_full": "Europe/Vienna"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 110,
+        "fields": {
+            "name": "Zurich Airport",
+            "iata": "ZRH",
+            "country_code": "CH",
+            "city": "Zurich",
+            "timezone_full": "Europe/Zurich"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 111,
+        "fields": {
+            "name": "Lisbon Humberto Delgado Airport",
+            "iata": "LIS",
+            "country_code": "PT",
+            "city": "Lisbon",
+            "timezone_full": "Europe/Lisbon"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 112,
+        "fields": {
+            "name": "Oslo Gardermoen Airport",
+            "iata": "OSL",
+            "country_code": "NO",
+            "city": "Oslo",
+            "timezone_full": "Europe/Oslo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 113,
+        "fields": {
+            "name": "Copenhagen Airport",
+            "iata": "CPH",
+            "country_code": "DK",
+            "city": "Copenhagen",
+            "timezone_full": "Europe/Copenhagen"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 114,
+        "fields": {
+            "name": "Tallinn Lennart Meri Airport",
+            "iata": "TLL",
+            "country_code": "EE",
+            "city": "Tallinn",
+            "timezone_full": "Europe/Tallinn"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 115,
+        "fields": {
+            "name": "Athens Eleftherios Venizelos Airport",
+            "iata": "ATH",
+            "country_code": "GR",
+            "city": "Athens",
+            "timezone_full": "Europe/Athens"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 116,
+        "fields": {
+            "name": "Baku Heydar Aliyev International Airport",
+            "iata": "GYD",
+            "country_code": "AZ",
+            "city": "Baku",
+            "timezone_full": "Asia/Baku"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 117,
+        "fields": {
+            "name": "Tbilisi International Airport",
+            "iata": "TBS",
+            "country_code": "GE",
+            "city": "Tbilisi",
+            "timezone_full": "Asia/Tbilisi"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 118,
+        "fields": {
+            "name": "Kabul Hamid Karzai International Airport",
+            "iata": "KBL",
+            "country_code": "AF",
+            "city": "Kabul",
+            "timezone_full": "Asia/Kabul"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 119,
+        "fields": {
+            "name": "Dhaka Hazrat Shahjalal International Airport",
+            "iata": "DAC",
+            "country_code": "BD",
+            "city": "Dhaka",
+            "timezone_full": "Asia/Dhaka"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 120,
+        "fields": {
+            "name": "Nairobi Jomo Kenyatta International Airport",
+            "iata": "NBO",
+            "country_code": "KE",
+            "city": "Nairobi",
+            "timezone_full": "Africa/Nairobi"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 121,
+        "fields": {
+            "name": "Lima Jorge Chávez International Airport",
+            "iata": "LIM",
+            "country_code": "PE",
+            "city": "Lima",
+            "timezone_full": "America/Lima"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 122,
+        "fields": {
+            "name": "Accra Kotoka International Airport",
+            "iata": "ACC",
+            "country_code": "GH",
+            "city": "Accra",
+            "timezone_full": "Africa/Accra"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 123,
+        "fields": {
+            "name": "Lagos Murtala Muhammed International Airport",
+            "iata": "LOS",
+            "country_code": "NG",
+            "city": "Lagos",
+            "timezone_full": "Africa/Lagos"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 124,
+        "fields": {
+            "name": "Casablanca Mohammed V International Airport",
+            "iata": "CMN",
+            "country_code": "MA",
+            "city": "Casablanca",
+            "timezone_full": "Africa/Casablanca"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 125,
+        "fields": {
+            "name": "Algiers Houari Boumediene Airport",
+            "iata": "ALG",
+            "country_code": "DZ",
+            "city": "Algiers",
+            "timezone_full": "Africa/Algiers"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 126,
+        "fields": {
+            "name": "Banjul Banjul International Airport",
+            "iata": "BJL",
+            "country_code": "GM",
+            "city": "Banjul",
+            "timezone_full": "Africa/Banjul"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 127,
+        "fields": {
+            "name": "Sanaa International Airport",
+            "iata": "SAH",
+            "country_code": "YE",
+            "city": "Sanaa",
+            "timezone_full": "Asia/Aden"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 128,
+        "fields": {
+            "name": "Kuwait International Airport",
+            "iata": "KWI",
+            "country_code": "KW",
+            "city": "Kuwait City",
+            "timezone_full": "Asia/Kuwait"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 129,
+        "fields": {
+            "name": "Tunis Carthage International Airport",
+            "iata": "TUN",
+            "country_code": "TN",
+            "city": "Tunis",
+            "timezone_full": "Africa/Tunis"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 130,
+        "fields": {
+            "name": "Dhaka Hazrat Shahjalal International Airport",
+            "iata": "DAC",
+            "country_code": "BD",
+            "city": "Dhaka",
+            "timezone_full": "Asia/Dhaka"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 131,
+        "fields": {
+            "name": "Antananarivo Ivato International Airport",
+            "iata": "TNR",
+            "country_code": "MG",
+            "city": "Antananarivo",
+            "timezone_full": "Indian/Antananarivo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 132,
+        "fields": {
+            "name": "Havana José Martí International Airport",
+            "iata": "HAV",
+            "country_code": "CU",
+            "city": "Havana",
+            "timezone_full": "America/Havana"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 133,
+        "fields": {
+            "name": "Port-au-Prince Toussaint Louverture International Airport",
+            "iata": "PAP",
+            "country_code": "HT",
+            "city": "Port-au-Prince",
+            "timezone_full": "America/Port-au-Prince"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 134,
+        "fields": {
+            "name": "Punta Cana International Airport",
+            "iata": "PUJ",
+            "country_code": "DO",
+            "city": "Punta Cana",
+            "timezone_full": "America/Santo_Domingo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 135,
+        "fields": {
+            "name": "San Juan Luis Muñoz Marín International Airport",
+            "iata": "SJU",
+            "country_code": "PR",
+            "city": "San Juan",
+            "timezone_full": "America/Puerto_Rico"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 136,
+        "fields": {
+            "name": "Asunción Silvio Pettirossi International Airport",
+            "iata": "ASU",
+            "country_code": "PY",
+            "city": "Asunción",
+            "timezone_full": "America/Asuncion"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 137,
+        "fields": {
+            "name": "Cochabamba Jorge Wilstermann International Airport",
+            "iata": "CBB",
+            "country_code": "BO",
+            "city": "Cochabamba",
+            "timezone_full": "America/La_Paz"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 138,
+        "fields": {
+            "name": "Quito Mariscal Sucre International Airport",
+            "iata": "UIO",
+            "country_code": "EC",
+            "city": "Quito",
+            "timezone_full": "America/Guayaquil"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 139,
+        "fields": {
+            "name": "Paramaribo Johan Adolf Pengel International Airport",
+            "iata": "PBM",
+            "country_code": "SR",
+            "city": "Paramaribo",
+            "timezone_full": "America/Paramaribo"
+        }
+    },
+    {
+        "model": "airport.airport",
+        "pk": 140,
+        "fields": {
+            "name": "Georgetown Cheddi Jagan International Airport",
+            "iata": "GEO",
+            "country_code": "GY",
+            "city": "Georgetown",
+            "timezone_full": "America/Guyana"
+        }
+    }
+]

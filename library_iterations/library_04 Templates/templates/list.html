@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    My Simple List
+{% endblock %}
+
+{% block content %}
+    <h2>Items List</h2>
+    <ul>
+        {% for item in items %}
+            <li>{{ item }}</li>
+        {% empty %}
+            <li>No items available</li>
+        {% endfor %}
+    </ul>
+{% endblock %}

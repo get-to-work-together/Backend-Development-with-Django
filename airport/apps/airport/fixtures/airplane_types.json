@@ -1,0 +1,236 @@
+[
+    {
+        "model": "airport.airplanetype",
+        "pk": 1,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A220-300",
+            "seating_capacity": 160
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 2,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A320-200",
+            "seating_capacity": 180
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 3,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A320-214",
+            "seating_capacity": 180
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 4,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A321-200",
+            "seating_capacity": 236
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 5,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A321neo",
+            "seating_capacity": 244
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 6,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A330-200",
+            "seating_capacity": 250
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 7,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A330-300",
+            "seating_capacity": 440
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 8,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A330-900neo",
+            "seating_capacity": 287
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 9,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A350-1000",
+            "seating_capacity": 410
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 10,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A350-900",
+            "seating_capacity": 325
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 11,
+        "fields": {
+            "manufacturer": "Airbus",
+            "name": "Airbus A380-800",
+            "seating_capacity": 555
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 12,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 737 MAX 8",
+            "seating_capacity": 178
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 13,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 737 MAX 9",
+            "seating_capacity": 193
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 14,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 737-700",
+            "seating_capacity": 149
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 15,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 737-800",
+            "seating_capacity": 189
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 16,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 737-900",
+            "seating_capacity": 220
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 17,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 747-400",
+            "seating_capacity": 416
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 18,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 747-400 Combi",
+            "seating_capacity": 268
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 19,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 747-8",
+            "seating_capacity": 467
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 20,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 757-200",
+            "seating_capacity": 200
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 21,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 767-300ER",
+            "seating_capacity": 282
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 22,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 777-200ER",
+            "seating_capacity": 365
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 23,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 777-300ER",
+            "seating_capacity": 396
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 24,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 787-10 Dreamliner",
+            "seating_capacity": 318
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 25,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 787-8 Dreamliner",
+            "seating_capacity": 242
+        }
+    },
+    {
+        "model": "airport.airplanetype",
+        "pk": 26,
+        "fields": {
+            "manufacturer": "Boeing",
+            "name": "Boeing 787-9 Dreamliner",
+            "seating_capacity": 296
+        }
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "model": "books.book",
+        "pk": 1,
+        "fields": {
+            "title": "Max Havelaar",
+            "author": "Multatuli (Eduard Douwes Dekker)",
+            "publication_date": "1860-05-15",
+            "isbn": "9789029531408",
+            "pages": 372,
+            "language": "Dutch",
+            "genre": "Historische roman",
+            "summary": "Een klassieker van de Nederlandse literatuur, waarin de misstanden in het Nederlandse koloniale systeem in Indonesië worden blootgelegd door de ogen van Max Havelaar, een koloniale ambtenaar."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 2,
+        "fields": {
+            "title": "De Avonden",
+            "author": "Gerard Reve",
+            "publication_date": "1947-11-01",
+            "isbn": "9789028203481",
+            "pages": 324,
+            "language": "Dutch",
+            "genre": "Literatuur",
+            "summary": "Een naoorlogse roman, gesitueerd in Amsterdam, waarin tien dagen uit het leven van Frits van Egters worden gevolgd. Hij worstelt met de eentonigheid en somberheid van het dagelijks leven."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 3,
+        "fields": {
+            "title": "Het Diner",
+            "author": "Herman Koch",
+            "publication_date": "2009-05-01",
+            "isbn": "9789025433270",
+            "pages": 350,
+            "language": "Dutch",
+            "genre": "Psychologische roman",
+            "summary": "Tijdens een diner in een chique restaurant bespreken twee koppels een ernstige misdaad die hun tienerzonen hebben begaan, wat vragen oproept over morele verantwoordelijkheid en ouderschap."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 4,
+        "fields": {
+            "title": "De ontdekking van de hemel",
+            "author": "Harry Mulisch",
+            "publication_date": "1992-09-01",
+            "isbn": "9789023429879",
+            "pages": 900,
+            "language": "Dutch",
+            "genre": "Filosofische roman",
+            "summary": "Een filosofische roman die de plaats van de mensheid in het universum onderzoekt, verteld door de vriendschap tussen twee mannen en een goddelijke missie om de Tien Geboden terug te halen."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 5,
+        "fields": {
+            "title": "De Aanslag",
+            "author": "Harry Mulisch",
+            "publication_date": "1982-09-01",
+            "isbn": "9789023416350",
+            "pages": 256,
+            "language": "Dutch",
+            "genre": "Oorlogsroman",
+            "summary": "Gesitueerd tijdens en na de Tweede Wereldoorlog, onderzoekt deze roman hoe een verzetsactie het leven van een jonge jongen beïnvloedt, waarbij thema’s zoals schuld en historische herinnering worden verkend."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 6,
+        "fields": {
+            "title": "Kruistocht in spijkerbroek",
+            "author": "Thea Beckman",
+            "publication_date": "1973-01-01",
+            "isbn": "9789025831632",
+            "pages": 312,
+            "language": "Dutch",
+            "genre": "Historische jeugdroman",
+            "summary": "Een tijdreisavontuur waarin een jongen terechtkomt midden in de Kinderkruistocht in de Middeleeuwen, waarbij geschiedenis en fantasie worden gecombineerd."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 7,
+        "fields": {
+            "title": "Pluk van de Petteflet",
+            "author": "Annie M.G. Schmidt",
+            "publication_date": "1971-09-01",
+            "isbn": "9789021480155",
+            "pages": 151,
+            "language": "Dutch",
+            "genre": "Jeugdliteratuur",
+            "summary": "Een geliefd kinderboek over een jongen, Pluk, die in een rood wagentje rijdt en de bewoners van zijn flat helpt bij het oplossen van problemen."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 8,
+        "fields": {
+            "title": "Brief voor de Koning",
+            "author": "Tonke Dragt",
+            "publication_date": "1962-01-01",
+            "isbn": "9789025764663",
+            "pages": 455,
+            "language": "Dutch",
+            "genre": "Jeugdliteratuur, Avontuur",
+            "summary": "Een klassiek Nederlands avonturenverhaal waarin de jonge schildknaap Tiuri op een gevaarlijke missie gaat om een brief af te leveren die een koninkrijk kan redden."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 9,
+        "fields": {
+            "title": "Jip en Janneke",
+            "author": "Annie M.G. Schmidt",
+            "publication_date": "1952-01-01",
+            "isbn": "9789045102259",
+            "pages": 230,
+            "language": "Dutch",
+            "genre": "Kinderboeken",
+            "summary": "Een verzameling korte verhalen over twee kinderen, Jip en Janneke, wiens speelse en ondeugende avonturen generaties Nederlandse lezers hebben betoverd."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 10,
+        "fields": {
+            "title": "De kleine Johannes",
+            "author": "Frederik van Eeden",
+            "publication_date": "1887-01-01",
+            "isbn": "9789028221538",
+            "pages": 174,
+            "language": "Dutch",
+            "genre": "Filosofische roman",
+            "summary": "Een filosofische fantasieroman over een jongen genaamd Johannes die op een reis gaat door verschillende levensfasen, geleid door magische wezens."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 11,
+        "fields": {
+            "title": "Pogingen iets van het leven te maken",
+            "author": "Hendrik Groen",
+            "publication_date": "2014-05-12",
+            "isbn": "9789026332335",
+            "pages": 328,
+            "language": "Dutch",
+            "genre": "Humor, Dagboekroman",
+            "summary": "Het humoristische dagboek van een oudere man in een Nederlands verzorgingshuis, waarin de dagelijkse uitdagingen en vreugden van het ouder worden worden vastgelegd."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 12,
+        "fields": {
+            "title": "Oorlogswinter",
+            "author": "Jan Terlouw",
+            "publication_date": "1972-01-01",
+            "isbn": "9789000034026",
+            "pages": 196,
+            "language": "Dutch",
+            "genre": "Jeugdliteratuur, Oorlogsroman",
+            "summary": "Gesitueerd tijdens de winter van de Tweede Wereldoorlog, vertelt dit boek het verhaal van een tienerjongen die betrokken raakt bij het Nederlandse verzet tegen de Duitse bezetting."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 13,
+        "fields": {
+            "title": "Zomerhuis met zwembad",
+            "author": "Herman Koch",
+            "publication_date": "2011-03-17",
+            "isbn": "9789023463896",
+            "pages": 413,
+            "language": "Dutch",
+            "genre": "Psychologische roman",
+            "summary": "Een psychologische thriller over een arts die betrokken raakt bij een schandaal met zijn patiënten terwijl hij op vakantie is in een zomerhuis met zwembad."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 14,
+        "fields": {
+            "title": "De helaasheid der dingen",
+            "author": "Dimitri Verhulst",
+            "publication_date": "2006-01-01",
+            "isbn": "9789044609445",
+            "pages": 223,
+            "language": "Dutch",
+            "genre": "Autobiografische roman",
+            "summary": "Een donker humoristische autobiografische roman over een disfunctioneel gezin in het landelijke België, waar drinken, vechten en kattenkwaad het leven domineren."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 15,
+        "fields": {
+            "title": "Het gouden ei",
+            "author": "Tim Krabbé",
+            "publication_date": "1984-09-01",
+            "isbn": "9789021477604",
+            "pages": 94,
+            "language": "Dutch",
+            "genre": "Thriller",
+            "summary": "Een korte psychologische thriller over de verdwijning van een jonge vrouw en haar vriend die geobsedeerd raakt door het mysterie van haar verdwijning."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 16,
+        "fields": {
+            "title": "Turks Fruit",
+            "author": "Jan Wolkers",
+            "publication_date": "1969-09-01",
+            "isbn": "9789023410050",
+            "pages": 222,
+            "language": "Dutch",
+            "genre": "Liefdesroman",
+            "summary": "Een gepassioneerde en tragische liefdesgeschiedenis tussen een beeldhouwer en zijn geliefde Olga, die eindigt in verdriet en verlies."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 17,
+        "fields": {
+            "title": "Harry Potter en de Steen der Wijzen",
+            "author": "J.K. Rowling",
+            "publication_date": "1997-06-26",
+            "isbn": "9789076174082",
+            "pages": 223,
+            "language": "Dutch",
+            "genre": "Fantasy",
+            "summary": "Het eerste boek in de Harry Potter-serie, waarin Harry ontdekt dat hij een tovenaar is en naar Zweinstein gaat, de school voor hekserij en tovenarij."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 18,
+        "fields": {
+            "title": "Harry Potter en de Geheime Kamer",
+            "author": "J.K. Rowling",
+            "publication_date": "1998-07-02",
+            "isbn": "9789076174112",
+            "pages": 251,
+            "language": "Dutch",
+            "genre": "Fantasy",
+            "summary": "In het tweede boek van de Harry Potter-serie ontdekt Harry de mysterieuze Geheime Kamer en komt hij oog in oog te staan met een duistere kracht die Zweinstein bedreigt."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 19,
+        "fields": {
+            "title": "Harry Potter en de Gevangene van Azkaban",
+            "author": "J.K. Rowling",
+            "publication_date": "1999-07-08",
+            "isbn": "9789076174129",
+            "pages": 317,
+            "language": "Dutch",
+            "genre": "Fantasy",
+            "summary": "In het derde deel van de serie ontsnapt Sirius Zwarts, een gevaarlijke tovenaar, uit de gevangenis van Azkaban en Harry ontdekt een schokkend geheim over zijn ouders."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 20,
+        "fields": {
+            "title": "Harry Potter en de Vuurbeker",
+            "author": "J.K. Rowling",
+            "publication_date": "2000-07-08",
+            "isbn": "9789076174143",
+            "pages": 512,
+            "language": "Dutch",
+            "genre": "Fantasy",
+            "summary": "Harry neemt deel aan het Toverschool Toernooi, een gevaarlijke competitie tussen tovenaars, maar het toernooi leidt hem naar een confrontatie met Heer Voldemort."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 21,
+        "fields": {
+            "title": "Harry Potter en de Orde van de Feniks",
+            "author": "J.K. Rowling",
+            "publication_date": "2003-06-21",
+            "isbn": "9789076174174",
+            "pages": 766,
+            "language": "Dutch",
+            "genre": "Fantasy",
+            "summary": "In het vijfde boek van de serie moet Harry omgaan met de terugkeer van Voldemort, terwijl hij wordt geconfronteerd met de autoritaire Professor Omber en een rebellie binnen Zweinstein leidt."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 22,
+        "fields": {
+            "title": "Harry Potter en de Halfbloed Prins",
+            "author": "J.K. Rowling",
+            "publication_date": "2005-07-16",
+            "isbn": "9789076174198",
+            "pages": 656,
+            "language": "Dutch",
+            "genre": "Fantasy",
+            "summary": "Harry ontdekt meer over Voldemort's verleden en zijn eigen lot terwijl hij een mysterieuze toverdrankboek bezit dat hem nieuwe krachten geeft, maar ook grote gevaren."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 23,
+        "fields": {
+            "title": "Harry Potter en de Relieken van de Dood",
+            "author": "J.K. Rowling",
+            "publication_date": "2007-07-21",
+            "isbn": "9789076174204",
+            "pages": 759,
+            "language": "Dutch",
+            "genre": "Fantasy",
+            "summary": "In het laatste deel van de serie begint Harry zijn zoektocht naar de Horcruxen om Voldemort voor eens en altijd te verslaan, wat leidt tot een epische finale in Zweinstein."
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 24,
+        "fields": {
+            "title": "Harry Potter en het Vervloekte Kind",
+            "author": "J.K. Rowling",
+            "publication_date": "2016-07-31",
+            "isbn": "9789076174211",
+            "pages": 352,
+            "language": "Dutch",
+            "genre": "Fantasy, Toneelstuk",
+            "summary": "Dit toneelstuk speelt zich af 19 jaar na het laatste boek en volgt Harry’s zoon, Albus, die worstelt met zijn erfenis terwijl hij en zijn vader een nieuw avontuur beginnen."
+        }
+    }
+]
