@@ -15,4 +15,3 @@ class Book(models.Model):
     # String representation of the model
     def __str__(self):
         return self.title
-    
