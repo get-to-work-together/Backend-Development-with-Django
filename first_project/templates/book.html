@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+
+{% block title %}A Book{% endblock title %}
+
+{% block content %}
+<div class="container">
+<h1>{{ title }}</h1>
+<table class="table">
+<tr><td>Title</td><td>{{ data.title }}</td></tr>
+<tr><td>Author</td><td>{{ data.author }}</td></tr>
+<tr><td>ISBN</td><td>{{ data.isbn }}</td></tr>
+<tr><td>Genre</td><td>{{ data.genre.name }}</td></tr>
+</table>
+</div>
+{% endblock %}

@@ -1,0 +1,272 @@
+[
+    {
+        "model": "books.Book",
+        "pk": 1,
+        "fields": {
+            "title": "De ontdekking van de hemel",
+            "author": "Harry Mulisch",
+            "isbn": "9789023418785",
+            "publication_date": 1992
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 2,
+        "fields": {
+            "title": "Het diner",
+            "author": "Herman Koch",
+            "isbn": "9789041413941",
+            "publication_date": 2009
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 3,
+        "fields": {
+            "title": "De avonden",
+            "author": "Gerard Reve",
+            "isbn": "9789028208114",
+            "publication_date": 1947
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 4,
+        "fields": {
+            "title": "Turks fruit",
+            "author": "Jan Wolkers",
+            "isbn": "9789029505045",
+            "publication_date": 1969
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 5,
+        "fields": {
+            "title": "Max Havelaar",
+            "author": "Multatuli",
+            "isbn": "9789025300309",
+            "publication_date": 1860
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 6,
+        "fields": {
+            "title": "De kleine Johannes",
+            "author": "Frederik van Eeden",
+            "isbn": "9789028211503",
+            "publication_date": 1887
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 7,
+        "fields": {
+            "title": "De aanslag",
+            "author": "Harry Mulisch",
+            "isbn": "9789023419164",
+            "publication_date": 1982
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 8,
+        "fields": {
+            "title": "Ceci n’est pas een huis",
+            "author": "Herman Koch",
+            "isbn": "9789029503454",
+            "publication_date": 1993
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 9,
+        "fields": {
+            "title": "Publieke werken",
+            "author": "Thomas Rosenboom",
+            "isbn": "9789044607552",
+            "publication_date": 1999
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 10,
+        "fields": {
+            "title": "Bonita Avenue",
+            "author": "Peter Buwalda",
+            "isbn": "9789023457830",
+            "publication_date": 2010
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 11,
+        "fields": {
+            "title": "Oeroeg",
+            "author": "Hella S. Haasse",
+            "isbn": "9789021403280",
+            "publication_date": 1948
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 12,
+        "fields": {
+            "title": "Joe Speedboot",
+            "author": "Tommy Wieringa",
+            "isbn": "9789023416813",
+            "publication_date": 2005
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 13,
+        "fields": {
+            "title": "Het gouden ei",
+            "author": "Tim Krabbé",
+            "isbn": "9789021505632",
+            "publication_date": 1984
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 14,
+        "fields": {
+            "title": "Het achtste leven (voor Brilka)",
+            "author": "Nino Haratischwili",
+            "isbn": "9789026339553",
+            "publication_date": 2017
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 15,
+        "fields": {
+            "title": "Hersenschimmen",
+            "author": "J. Bernlef",
+            "isbn": "9789023461349",
+            "publication_date": 1984
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 16,
+        "fields": {
+            "title": "Zeven minuten na middernacht",
+            "author": "Patrick Ness",
+            "isbn": "9789025752179",
+            "publication_date": 2011
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 17,
+        "fields": {
+            "title": "Ik ben er niet",
+            "author": "Lize Spit",
+            "isbn": "9789021456781",
+            "publication_date": 2021
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 18,
+        "fields": {
+            "title": "Confettiregen",
+            "author": "Splinter Chabot",
+            "isbn": "9789463820346",
+            "publication_date": 2020
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 19,
+        "fields": {
+            "title": "De heilige Rita",
+            "author": "Tommy Wieringa",
+            "isbn": "9789025451393",
+            "publication_date": 2017
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 20,
+        "fields": {
+            "title": "Boven is het stil",
+            "author": "Gerbrand Bakker",
+            "isbn": "9789044606357",
+            "publication_date": 2006
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 21,
+        "fields": {
+            "title": "Harry Potter en de Steen der Wijzen",
+            "author": "J.K. Rowling",
+            "isbn": "9789076174082",
+            "publication_date": 1997
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 22,
+        "fields": {
+            "title": "Harry Potter en de Geheime Kamer",
+            "author": "J.K. Rowling",
+            "isbn": "9789076174129",
+            "publication_date": 1998
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 23,
+        "fields": {
+            "title": "Harry Potter en de Gevangene van Azkaban",
+            "author": "J.K. Rowling",
+            "isbn": "9789076174167",
+            "publication_date": 1999
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 24,
+        "fields": {
+            "title": "Harry Potter en de Vuurbeker",
+            "author": "J.K. Rowling",
+            "isbn": "9789076174198",
+            "publication_date": 2000
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 25,
+        "fields": {
+            "title": "Harry Potter en de Orde van de Feniks",
+            "author": "J.K. Rowling",
+            "isbn": "9789076174235",
+            "publication_date": 2003
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 26,
+        "fields": {
+            "title": "Harry Potter en de Halfbloed Prins",
+            "author": "J.K. Rowling",
+            "isbn": "9789076174273",
+            "publication_date": 2005
+        }
+    },
+    {
+        "model": "books.Book",
+        "pk": 27,
+        "fields": {
+            "title": "Harry Potter en de Relieken van de Dood",
+            "author": "J.K. Rowling",
+            "isbn": "9789076174310",
+            "publication_date": 2007
+        }
+    }
+]

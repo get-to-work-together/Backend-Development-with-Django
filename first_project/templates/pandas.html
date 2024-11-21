@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+
+
+{% block title %}A Book{% endblock title %}
+
+{% block content %}
+{{df.to_html|safe}}
+{% endblock %}
